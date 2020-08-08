@@ -1,0 +1,3090 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>sckull</title>
+    <link>https://sckull.github.io/</link>
+    <description>Recent content on sckull</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://sckull.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+
+      
+      <item>
+        <title>TryHackMe - GoldenEye</title>
+        <link>https://sckull.github.io/posts/goldeneye/</link>
+        <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 05 Aug 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/goldeneye/</guid>
+        <description>Easy Peasy es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/goldeneye/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/goldeneye/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Easy Peasy</title>
+        <link>https://sckull.github.io/posts/easypeasy/</link>
+        <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 04 Aug 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/easypeasy/</guid>
+        <description>Easy Peasy es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/easypeasy_thm/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/easypeasy_thm/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Bounty Hacker</title>
+        <link>https://sckull.github.io/posts/bountyhacker/</link>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 29 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/bountyhacker/</guid>
+        <description>Bounty Hacker es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/bountyhacker/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/bountyhacker/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Brooklyn Nine Nine</title>
+        <link>https://sckull.github.io/posts/brooklyn99/</link>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 29 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/brooklyn99/</guid>
+        <description>Brooklyn Nine Nine es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/brooklyn99/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/brooklyn99/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - djinn</title>
+        <link>https://sckull.github.io/posts/djinn/</link>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 29 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/djinn/</guid>
+        <description>djinn es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/djinn/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/djinn/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - LaxCTF</title>
+        <link>https://sckull.github.io/posts/laxctf/</link>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 29 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/laxctf/</guid>
+        <description>LaxCTF es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/laxctf/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/laxctf/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Smag Grotto</title>
+        <link>https://sckull.github.io/posts/smag/</link>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 29 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/smag/</guid>
+        <description>Smag Grotto es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/smag/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/smag/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Blog</title>
+        <link>https://sckull.github.io/posts/blog/</link>
+        <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 22 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/blog/</guid>
+        <description>Blog es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/blog/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/blog/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - JoyStick</title>
+        <link>https://sckull.github.io/posts/joystick/</link>
+        <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 22 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/joystick/</guid>
+        <description>JoyStick es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/joystick/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/joystick/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Overpass</title>
+        <link>https://sckull.github.io/posts/overpass/</link>
+        <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 22 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/overpass/</guid>
+        <description>Overpass es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/overpass/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/overpass/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Source</title>
+        <link>https://sckull.github.io/posts/source/</link>
+        <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 22 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/source/</guid>
+        <description>Source es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/source/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/source/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - KoTH Food CTF</title>
+        <link>https://sckull.github.io/posts/kothfood/</link>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 09 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/kothfood/</guid>
+        <description>KoTH Food CTF es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/kothfood/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/kothfood/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - KoTH Hackers</title>
+        <link>https://sckull.github.io/posts/kothhacker/</link>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 09 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/kothhacker/</guid>
+        <description>KoTH Hackers es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/kothhacker/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/kothhacker/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - uopeasy</title>
+        <link>https://sckull.github.io/posts/uopeasy/</link>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 07 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/uopeasy/</guid>
+        <description>uopeasy es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/uopeasy/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/uopeasy/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - BP: Networking</title>
+        <link>https://sckull.github.io/posts/bpnetworking/</link>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 28 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/bpnetworking/</guid>
+        <description>BP: Networking es una serie de retos de TryHackMe.
+ Informacion de la Maquina    Titulo BP: Networking     Info Part of the Blue Primer series, learn the basics of networking   Maker DarkStar7471    Kinda like a street address, just cooler.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io//images/posts/thm/bpnetworking/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Year of the Rabbit</title>
+        <link>https://sckull.github.io/posts/yearoftherabbit/</link>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 28 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/yearoftherabbit/</guid>
+        <description>Year of the Rabbit es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/yearoftherabbit/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/yearoftherabbit/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Break Out The Cage</title>
+        <link>https://sckull.github.io/posts/breakthecage/</link>
+        <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 27 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/breakthecage/</guid>
+        <description>Break Out The Cage es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/breakthecage/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/breakthecage/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Lian_Yu</title>
+        <link>https://sckull.github.io/posts/lianyu/</link>
+        <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 27 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/lianyu/</guid>
+        <description>Lian_Yu es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/lianyu/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/lianyu/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Fowsniff CTF</title>
+        <link>https://sckull.github.io/posts/fowsniff/</link>
+        <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 21 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/fowsniff/</guid>
+        <description>Fowsniff CTF es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/fowsniff/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/fowsniff/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Pickle Rick</title>
+        <link>https://sckull.github.io/posts/picklerick/</link>
+        <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 21 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/picklerick/</guid>
+        <description>Pickle Rick es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/picklerick/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/picklerick/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Anonymous</title>
+        <link>https://sckull.github.io/posts/anonymous/</link>
+        <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 20 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/anonymous/</guid>
+        <description>Anonymous es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/anonymous/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/anonymous/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Anthem</title>
+        <link>https://sckull.github.io/posts/anthem/</link>
+        <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 20 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/anthem/</guid>
+        <description>Anthem es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/anthem/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/anthem/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Monteverde</title>
+        <link>https://sckull.github.io/posts/monteverde/</link>
+        <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 13 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/monteverde/</guid>
+        <description>Monteverde es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/monteverde/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/monteverde/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>azureAD</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Nest</title>
+        <link>https://sckull.github.io/posts/nest/</link>
+        <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 04 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/nest/</guid>
+        <description>Nest es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/nest/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/nest/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Resolute</title>
+        <link>https://sckull.github.io/posts/resolute/</link>
+        <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 28 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/resolute/</guid>
+        <description>Resolute es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/resolute/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/resolute/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Iron Corp</title>
+        <link>https://sckull.github.io/posts/ironcorp/</link>
+        <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 12 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/ironcorp/</guid>
+        <description>Iron Corp es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/ironcorp/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/ironcorp/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Racetrack Bank</title>
+        <link>https://sckull.github.io/posts/racetrackbank/</link>
+        <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 12 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/racetrackbank/</guid>
+        <description>Racetrack Bank es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/racetrackbank/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/racetrackbank/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Obscurity</title>
+        <link>https://sckull.github.io/posts/obscurity/</link>
+        <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 09 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/obscurity/</guid>
+        <description>Obscurity es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/obscurity/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/obscurity/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Cicada-3301 Vol:1</title>
+        <link>https://sckull.github.io/posts/cicada3301vol1/</link>
+        <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 07 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/cicada3301vol1/</guid>
+        <description>Cicada-3301 Vol:1 es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/cicada3301vol1/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/cicada3301vol1/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - ConvertMyVideo</title>
+        <link>https://sckull.github.io/posts/convertmyvideo/</link>
+        <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 05 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/convertmyvideo/</guid>
+        <description>ConvertMyVideo es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/convertmyvideo/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/convertmyvideo/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Nax</title>
+        <link>https://sckull.github.io/posts/nax/</link>
+        <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 05 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/nax/</guid>
+        <description>Nax es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/nax/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/nax/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - TomGhost</title>
+        <link>https://sckull.github.io/posts/tomgost/</link>
+        <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 05 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/tomgost/</guid>
+        <description>TomGhost es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/tomghost/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/tomghost/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - OpenAdmin</title>
+        <link>https://sckull.github.io/posts/openadmin/</link>
+        <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 02 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/openadmin/</guid>
+        <description>OpenAdmin es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/openadmin/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/openadmin/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Mango</title>
+        <link>https://sckull.github.io/posts/mango/</link>
+        <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 18 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/mango/</guid>
+        <description>Mango es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/mango/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/mango/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - DogCat</title>
+        <link>https://sckull.github.io/posts/dogcat/</link>
+        <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 18 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/dogcat/</guid>
+        <description>DogCat es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/dogcat/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/dogcat/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Tony the Tiger</title>
+        <link>https://sckull.github.io/posts/tonythetiger/</link>
+        <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 17 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/tonythetiger/</guid>
+        <description>Tony the Tiger es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/tonythetiger/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/tonythetiger/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Traverxec</title>
+        <link>https://sckull.github.io/posts/traverxec/</link>
+        <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 11 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/traverxec/</guid>
+        <description>Traverxec es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/traverxec/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/traverxec/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Jack-of-All-Trades</title>
+        <link>https://sckull.github.io/posts/jackofalltrades/</link>
+        <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 08 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/jackofalltrades/</guid>
+        <description>Jack-of-All-Trades es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/jackofalltrades/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/jackofalltrades/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Sniper</title>
+        <link>https://sckull.github.io/posts/sniper/</link>
+        <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 28 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/sniper/</guid>
+        <description>Sniper es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/sniper/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/sniper/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Stealthcopter CTF Primer1</title>
+        <link>https://sckull.github.io/posts/stealthcopter/</link>
+        <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 16 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/stealthcopter/</guid>
+        <description>Stealthcopter CTF Primer es una serie de retos de TryHackMe aqui encontrarás la solucion para obtener las flags.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/stealthcopter/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/stealthcopter/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Postman</title>
+        <link>https://sckull.github.io/posts/postman/</link>
+        <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 14 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/postman/</guid>
+        <description>Postman es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/postman/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/postman/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Willow</title>
+        <link>https://sckull.github.io/posts/willow/</link>
+        <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 12 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/willow/</guid>
+        <description>Willow es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/willow/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/willow/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Ignite</title>
+        <link>https://sckull.github.io/posts/ignite/</link>
+        <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 02 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/ignite/</guid>
+        <description>Ignite es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/ignite/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/ignite/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - HA Joker CTF</title>
+        <link>https://sckull.github.io/posts/jokerctf/</link>
+        <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 27 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/jokerctf/</guid>
+        <description>HA Joker CTF es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/jokerctf/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/jokerctf/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Node 1</title>
+        <link>https://sckull.github.io/posts/nodeone/</link>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 26 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/nodeone/</guid>
+        <description>Node 1 es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/nodeone/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/nodeone/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Ultratech</title>
+        <link>https://sckull.github.io/posts/ultratech/</link>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 26 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/ultratech/</guid>
+        <description>Ultratech es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/ultratech/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/ultratech/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - KnockKnock</title>
+        <link>https://sckull.github.io/posts/knockknock/</link>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 24 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/knockknock/</guid>
+        <description>KnockKnock es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/knockknock/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/knockknock/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - CherryBlossom</title>
+        <link>https://sckull.github.io/posts/cherryblossom/</link>
+        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 21 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/cherryblossom/</guid>
+        <description>CherryBlossom es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/cherryblossom/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/cherryblossom/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Password Cracking</title>
+        <link>https://sckull.github.io/posts/password_cracking_thm/</link>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 20 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/password_cracking_thm/</guid>
+        <description>Password Cracking es una serie de retos de TryHackMe aqui encontrarás la solucion para obtener las flags.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/passwordcracking/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/passwordcracking/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Json</title>
+        <link>https://sckull.github.io/posts/json/</link>
+        <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 15 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/json/</guid>
+        <description>Json es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/json/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/json/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - CMesS</title>
+        <link>https://sckull.github.io/posts/cmess/</link>
+        <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 15 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/cmess/</guid>
+        <description>CMesS es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/cmess/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/cmess/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Retro</title>
+        <link>https://sckull.github.io/posts/retro/</link>
+        <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 15 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/retro/</guid>
+        <description>Retro es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/retro/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/retro/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - CTF collection Vol.2</title>
+        <link>https://sckull.github.io/posts/ctf_collection_vol2/</link>
+        <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 14 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/ctf_collection_vol2/</guid>
+        <description>CTF Collection Vol.2 es una serie de retos de TryHackMe aqui encontrarás la solucion para obtener las flags.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/ctf_collection_vol2/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/ctf_collection_vol2/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - c4ptur3-th3-fl4g</title>
+        <link>https://sckull.github.io/posts/c4ptur3-th3-fl4g/</link>
+        <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 12 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/c4ptur3-th3-fl4g/</guid>
+        <description>C4ptur3-th3-fl4g es una serie de retos de TryHackMe aqui encontrarás la solucion para obtener las flags.
+ Informacion de la Maquina    Titulo c4ptur3-th3-fl4g     Info A beginner level CTF challenge   Puntos 4565   Dificultad Facil   Maker dcdavidlee    Hashes Algunas paginas con las cuales podemos analizar el hash y resolver los retos en linea.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/c4ptur3th3fl4g/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/c4ptur3th3fl4g/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - CTF collection Vol.1</title>
+        <link>https://sckull.github.io/posts/ctf_collection_vol1/</link>
+        <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 12 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/ctf_collection_vol1/</guid>
+        <description>CTF collection Vol.1 es una serie de retos de TryHackMe aqui encontrarás la solucion para obtener las flags.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/ctf_collection_vol1/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/ctf_collection_vol1/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Madness</title>
+        <link>https://sckull.github.io/posts/madness_thm/</link>
+        <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 12 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/madness_thm/</guid>
+        <description>Madness es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/madness/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/madness/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Pepega Energy</title>
+        <link>https://sckull.github.io/posts/pepegaenergy/</link>
+        <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 12 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/pepegaenergy/</guid>
+        <description>Pepega Energy es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/pepegaenergy/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/pepegaenergy/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Simple CTF</title>
+        <link>https://sckull.github.io/posts/simplectfthm/</link>
+        <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 05 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/simplectfthm/</guid>
+        <description>Simple CTF es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/simplectf/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/simplectf/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Agent Sudo</title>
+        <link>https://sckull.github.io/posts/agent_sudo/</link>
+        <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 04 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/agent_sudo/</guid>
+        <description>Agent Sudo es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/agentsudo/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/agentsudo/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>About</title>
+        <link>https://sckull.github.io/about/</link>
+        <pubDate>Thu, 30 Jan 2020 12:50:46 +0900</pubDate>
+        
+        <atom:modified>Thu, 30 Jan 2020 12:50:46 +0900</atom:modified>
+        <guid>https://sckull.github.io/about/</guid>
+        <description>TryHackMe : sckull
+Telegram: TryHackMe Español
+HackTheBox: sckull
+Github: sckull
+Twitter: @sckull
+ </description>
+        
+        <dc:creator>sckull</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Bitlab</title>
+        <link>https://sckull.github.io/posts/bitlab/</link>
+        <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 11 Jan 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/bitlab/</guid>
+        <description>Bitlab es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/bitlab/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/bitlab/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>ollydbg</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Forest</title>
+        <link>https://sckull.github.io/posts/forest/</link>
+        <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 10 Jan 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/forest/</guid>
+        <description>Forest es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/forest/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/forest/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Craft</title>
+        <link>https://sckull.github.io/posts/craft/</link>
+        <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 04 Jan 2020 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/craft/</guid>
+        <description>Craft es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/craft/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/craft/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Blueprint</title>
+        <link>https://sckull.github.io/posts/blueprint/</link>
+        <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 27 Dec 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/blueprint/</guid>
+        <description>Blueprint es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/blueprint/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/blueprint/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>DNS exfil</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Wgel CTF</title>
+        <link>https://sckull.github.io/posts/wgel/</link>
+        <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 27 Dec 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/wgel/</guid>
+        <description>Wgel CTF es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/wgel/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/wgel/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Vulnversity</title>
+        <link>https://sckull.github.io/posts/vulnversity/</link>
+        <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 25 Dec 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/vulnversity/</guid>
+        <description>Vulnversity es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/vulnversity/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/vulnversity/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Break It</title>
+        <link>https://sckull.github.io/posts/breakit/</link>
+        <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 12 Dec 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/breakit/</guid>
+        <description>Break It es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/breakit/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/breakit/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Lazy Admin</title>
+        <link>https://sckull.github.io/posts/lazyadmin/</link>
+        <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 12 Dec 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/lazyadmin/</guid>
+        <description>Lazy Admin es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/LazyAdmin/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/LazyAdmin/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>firefox decrypt</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Linux Privesc Playground</title>
+        <link>https://sckull.github.io/posts/linuxprivescplayground/</link>
+        <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 10 Dec 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/linuxprivescplayground/</guid>
+        <description>Linux Privesc Playground es una maquina de TryHackMe aqui encontrarás la solucion para escalar privilegios de distintas formas.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/LPP/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/LPP/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>GTFObins</category>
+            
+          
+            
+              <category>SUID</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Wall</title>
+        <link>https://sckull.github.io/posts/wall/</link>
+        <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 07 Dec 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/wall/</guid>
+        <description>Wall es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/wall/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/wall/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>centreon</category>
+            
+          
+            
+              <category>screen</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Heist</title>
+        <link>https://sckull.github.io/posts/heist/</link>
+        <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 30 Nov 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/heist/</guid>
+        <description>Heist es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/heist/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/heist/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Networked</title>
+        <link>https://sckull.github.io/posts/networked/</link>
+        <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 16 Nov 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/networked/</guid>
+        <description>Networked es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/networked/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/networked/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Jarvis</title>
+        <link>https://sckull.github.io/posts/jarvis/</link>
+        <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 08 Nov 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/jarvis/</guid>
+        <description>Jarvis es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/jarvis/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/jarvis/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Haystack</title>
+        <link>https://sckull.github.io/posts/haystack/</link>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 02 Nov 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/haystack/</guid>
+        <description>Haystack es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/haystack/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/haystack/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>elasticsearch</category>
+            
+          
+            
+              <category>kibana 6.4.2</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Writeup</title>
+        <link>https://sckull.github.io/posts/writeup/</link>
+        <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 12 Oct 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/writeup/</guid>
+        <description>Writeup es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/writeup/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/writeup/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - SwagShop</title>
+        <link>https://sckull.github.io/posts/swagshop/</link>
+        <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 28 Sep 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/swagshop/</guid>
+        <description>SwagShop es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/swagshop/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/swagshop/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Vulnos2</title>
+        <link>https://sckull.github.io/posts/vulnos2/</link>
+        <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 19 Sep 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/vulnos2/</guid>
+        <description>Vulnos2 es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/vulnos2/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/vulnos2/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Luke</title>
+        <link>https://sckull.github.io/posts/luke/</link>
+        <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 14 Sep 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/luke/</guid>
+        <description>Luke es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/luke/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/luke/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>freebsd</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Bastion</title>
+        <link>https://sckull.github.io/posts/bastion/</link>
+        <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 06 Sep 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/bastion/</guid>
+        <description>Bastion es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/bastion/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/bastion/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Blue</title>
+        <link>https://sckull.github.io/posts/blue-thm/</link>
+        <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 05 Sep 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/blue-thm/</guid>
+        <description>Blue es una maquina de TryHackMe aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/blue/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/blue/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>eternalblue</category>
+            
+          
+            
+              <category>ms17_010</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>TryHackMe - Crack The Hash</title>
+        <link>https://sckull.github.io/posts/hashes/</link>
+        <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 05 Sep 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/hashes/</guid>
+        <description>Crack The Hash es una serie de retos de TryHackMe aqui encontrarás la solucion para obtener las flags.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/thm/hashes/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/thm/hashes/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+          
+            
+              <category>tryhackme</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Arkham</title>
+        <link>https://sckull.github.io/posts/arkham/</link>
+        <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 10 Aug 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/arkham/</guid>
+        <description>Arkham es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/arkham/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/arkham/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>deserialization</category>
+            
+          
+            
+              <category>readpst</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Fortune</title>
+        <link>https://sckull.github.io/posts/fortune/</link>
+        <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 03 Aug 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/fortune/</guid>
+        <description>Fortune es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/fortune/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/fortune/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - LaCasaDePapel</title>
+        <link>https://sckull.github.io/posts/lacasadepapel/</link>
+        <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 27 Jul 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/lacasadepapel/</guid>
+        <description>LaCasaDePapel es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/lacasadepapel/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/lacasadepapel/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - FriendZone</title>
+        <link>https://sckull.github.io/posts/friendzone/</link>
+        <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 13 Jul 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/friendzone/</guid>
+        <description>FriendZone es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/friendzone/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/friendzone/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Netmon</title>
+        <link>https://sckull.github.io/posts/netmon/</link>
+        <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 29 Jun 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/netmon/</guid>
+        <description>Netmon es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/netmon/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/netmon/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Querier</title>
+        <link>https://sckull.github.io/posts/querier/</link>
+        <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 22 Jun 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/querier/</guid>
+        <description>Querier es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/querier/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/querier/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Chaos</title>
+        <link>https://sckull.github.io/posts/chaos/</link>
+        <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 25 May 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/chaos/</guid>
+        <description>Chaos es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/chaos/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/chaos/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>OWASP CTF 2019 Guatemala - Infraestructura</title>
+        <link>https://sckull.github.io/posts/owaspinfra/</link>
+        <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 19 May 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/owaspinfra/</guid>
+        <description>OWASP CTF es una maquina del OWASP Guatemala, aqui encontrarás la solucion para obtener la flag user.txt y root.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/owasp/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/owasp/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+            
+              <category>CTF</category>
+            
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>owasp</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>OWASP CTF 2019 Guatemala - Writeup</title>
+        <link>https://sckull.github.io/posts/owasp2019/</link>
+        <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 19 May 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/owasp2019/</guid>
+        <description>OWASP CTF es una serie de retos del OWASP Guatemala, aqui encontrarás la solucion para obtener las flags de los diferentes retos presentados por los organizadores.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/owasp/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/owasp/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>challenge</category>
+            
+          
+            
+              <category>CTF</category>
+            
+          
+        
+        
+          
+            
+              <category>owasp</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Lightweight</title>
+        <link>https://sckull.github.io/posts/lightweight/</link>
+        <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 09 May 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/lightweight/</guid>
+        <description>Lightweight es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/light/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/light/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Irked</title>
+        <link>https://sckull.github.io/posts/irked/</link>
+        <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 20 Apr 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/irked/</guid>
+        <description>Irked es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/irked/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/irked/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Teacher</title>
+        <link>https://sckull.github.io/posts/teacher/</link>
+        <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 20 Apr 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/teacher/</guid>
+        <description>Teacher es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/teacher/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/teacher/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Redcross</title>
+        <link>https://sckull.github.io/posts/redcross/</link>
+        <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 13 Apr 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/redcross/</guid>
+        <description>Redcross es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/redcross/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/redcross/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Vault</title>
+        <link>https://sckull.github.io/posts/vault/</link>
+        <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 06 Apr 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/vault/</guid>
+        <description>Vault es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/vault/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/vault/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Curling</title>
+        <link>https://sckull.github.io/posts/curling/</link>
+        <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 30 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/curling/</guid>
+        <description>Curling es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/curling/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/curling/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Frolic</title>
+        <link>https://sckull.github.io/posts/frolic/</link>
+        <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 24 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/frolic/</guid>
+        <description>Frolic es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/frolic/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/frolic/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Access</title>
+        <link>https://sckull.github.io/posts/access/</link>
+        <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 02 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/access/</guid>
+        <description>Access es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/access/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/access/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Conceal</title>
+        <link>https://sckull.github.io/posts/conceal/</link>
+        <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 02 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/conceal/</guid>
+        <description>Conceal es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/conceal/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/conceal/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>windows</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Help</title>
+        <link>https://sckull.github.io/posts/help/</link>
+        <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 02 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>https://sckull.github.io/posts/help/</guid>
+        <description>Help es una maquina de HackTheBox aqui encontrarás la solucion para obtener la flag user.txt y root.txt.</description>
+        
+        <dc:creator>sckull</dc:creator>
+        <media:content url="https://sckull.github.io/images/posts/htb/help/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://sckull.github.io/images/posts/htb/help/cover.webp" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>hackthebox</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
